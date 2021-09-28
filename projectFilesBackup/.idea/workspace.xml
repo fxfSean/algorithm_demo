@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0fc03aec-03b7-4715-b9c5-8e518c8a1b84" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hIBIXCQWwNjvqbu7b0k499r3Ng" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../../android-sdk-macosx" />
+    <property name="last_opened_file_path" value="D:/ASProject" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.fxf.leetcode" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android JUnit.MinestSubStr.t0">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="CoinChange.t0" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fxf.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fxf.leetcode" />
+      <option name="MAIN_CLASS_NAME" value="com.fxf.leetcode.CoinChange" />
+      <option name="METHOD_NAME" value="t0" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExchangeTreeNode.t0" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fxf.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fxf.leetcode" />
+      <option name="MAIN_CLASS_NAME" value="com.fxf.leetcode.ExchangeTreeNode" />
+      <option name="METHOD_NAME" value="t0" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinestSubStr.t0" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fxf.leetcode.slidingwindow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fxf.leetcode.slidingwindow" />
+      <option name="MAIN_CLASS_NAME" value="com.fxf.leetcode.slidingwindow.MinestSubStr" />
+      <option name="METHOD_NAME" value="t0" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NQueue.t0" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fxf.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fxf.leetcode" />
+      <option name="MAIN_CLASS_NAME" value="com.fxf.leetcode.NQueue" />
+      <option name="METHOD_NAME" value="t0" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenLock.t0" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fxf.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fxf.leetcode" />
+      <option name="MAIN_CLASS_NAME" value="com.fxf.leetcode.OpenLock" />
+      <option name="METHOD_NAME" value="t0" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.MinestSubStr.t0" />
+        <item itemvalue="Android JUnit.OpenLock.t0" />
+        <item itemvalue="Android JUnit.NQueue.t0" />
+        <item itemvalue="Android JUnit.CoinChange.t0" />
+        <item itemvalue="Android JUnit.ExchangeTreeNode.t0" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fc03aec-03b7-4715-b9c5-8e518c8a1b84" name="Default Changelist" comment="" />
+      <created>1599688646728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599688646728</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="245" y="200" key="#PSD" timestamp="1601385620842">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="245" y="200" key="#PSD/0.0.1440.900@0.0.1440.900" timestamp="1601385620842" />
+    <state x="270" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1603891588293">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="270" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.877@0.23.1440.877" timestamp="1603891588293" />
+    <state x="578" y="234" key="AndroidProcessChooserDialog" timestamp="1608304714953">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="578" y="234" key="AndroidProcessChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1608304714953" />
+    <state width="427" height="438" key="DebuggerActiveHint" timestamp="1608818607138">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="427" height="438" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1608818607138" />
+    <state width="1398" height="276" key="GridCell.Tab.0.bottom" timestamp="1609681909849">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609681909849" />
+    <state width="1398" height="276" key="GridCell.Tab.0.center" timestamp="1609681909848">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1609681909848" />
+    <state width="1398" height="276" key="GridCell.Tab.0.left" timestamp="1609681909848">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1609681909848" />
+    <state width="1398" height="276" key="GridCell.Tab.0.right" timestamp="1609681909849">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1609681909849" />
+    <state width="1398" height="276" key="GridCell.Tab.1.bottom" timestamp="1609681909851">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609681909851" />
+    <state width="1398" height="276" key="GridCell.Tab.1.center" timestamp="1609681909850">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1609681909850" />
+    <state width="1398" height="276" key="GridCell.Tab.1.left" timestamp="1609681909850">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1609681909850" />
+    <state width="1398" height="276" key="GridCell.Tab.1.right" timestamp="1609681909851">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1609681909851" />
+    <state x="390" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1606053414269">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="390" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1606053414269" />
+    <state x="372" y="200" width="849" height="550" key="find.popup" timestamp="1607956956562">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="372" y="200" width="849" height="550" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1607956956562" />
+    <state x="372" y="218" width="692" height="486" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1603633713421" />
+    <state width="353" height="81" key="javadoc.popup.new" timestamp="1609681265066">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="353" height="81" key="javadoc.popup.new/0.0.1440.900@0.0.1440.900" timestamp="1609681265066" />
+    <state width="353" height="81" key="javadoc.popup.new/0.23.1440.877@0.23.1440.877" timestamp="1607434345557" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1599981848753">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1599981848753" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/fxf/leetcode/SortsSet.kt</url>
+          <line>82</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/fxf/leetcode/SortsSet.kt</url>
+          <line>109</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/fxf/leetcode/SortsSet.kt</url>
+          <line>105</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/fxf/leetcode/SortsSet.kt</url>
+          <line>137</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/fxf/leetcode/BinaryCount.kt</url>
+          <line>15</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/fxf/leetcode/Permutation.kt</url>
+          <line>28</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/fxf/leetcode/ExchangeTreeNode.kt</url>
+          <line>16</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/fxf/leetcode/NQueue.kt</url>
+          <line>27</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/fxf/leetcode/OpenLock.kt</url>
+          <line>50</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/test/java/com/fxf/leetcode/OpenLock.kt</url>
+          <line>89</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
