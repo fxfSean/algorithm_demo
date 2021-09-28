@@ -18,6 +18,24 @@ public class MinestSubStr {
      * 返回 s 中涵盖 t 所有字符的最小子串。
      * 如果 s 中不存在涵盖 t 所有字符的子串，则返回空字符串 ""
      */
+    /**
+     * 伪代码
+     * minWindow(s: String, t: String) : String {
+     *  var left = 0
+     *  var right = 0
+     *  String res = s
+     *  while(right < s.length) {
+     *      window.add(s.charAt(right)
+     *      right++
+     *      while(left到right包含t) {
+     *          res = minLen(res, window)
+     *          left++
+     *          window.remove(s.charAt(left))
+     *      }
+     *  }
+     *  return res
+     * }
+     */
     fun minWindow(s: String, t: String): String {
         var left=0
         var right = 0
