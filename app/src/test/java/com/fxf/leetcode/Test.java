@@ -79,4 +79,6 @@ class Test {
         int[][] dp = new int[2][2];
     }
 
+    int[] a = {1,3};
+
 }
