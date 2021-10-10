@@ -53,4 +53,27 @@ class FindMedianInTwoSortedArr {
             nums[nums.size / 2].toDouble()
         }
     }
+
+    fun findMedianSortedArrays2(nums1: IntArray, nums2: IntArray): Double {
+        val m = nums1.size
+        val n = nums2.size
+        val len = m + n
+        var left = 0
+        var right = 0
+        var aStart = 0
+        var bStart = 0
+        for (i in 0 until len/2) {
+            left = right
+            right = if (aStart < m && (bStart >= n || nums1[aStart] < nums2[bStart])) {
+                nums1[aStart++]
+            } else {
+                nums2[bStart++]
+            }
+        }
+        return if ((len and 1) == 0) {
+            (left + right).toDouble() / 2
+        } else {
+            right.toDouble()
+        }
+    }
 }
