@@ -3,6 +3,10 @@ package com.fxf.leetcode
 import org.junit.Test
 import java.lang.StringBuilder
 
+/**
+ * LeetCode
+ * No.6. Z 字形变换
+ */
 class ConvertZ {
 
     @Test
