@@ -9,25 +9,19 @@ import kotlin.math.min
  */
 class LinkedListReverse {
 
-    fun reverseList(head: ListNode?): ListNode? {
-        if (head == null)return null
-        var pre = head
-        val listMin = LinkedList<Int>()
-        listMin.push(Int.MAX_VALUE)
-        min(1,2)
-        listMin.pop()
-        var curr = head.next
-        var next : ListNode? = null
-        while (curr != null){
-            next = curr.next
-            curr.next = pre
-
-            pre = curr
-            curr = next
+    fun reverseLinkedList(head: ListNode?) : ListNode?{
+        if (head == null) {
+            return null
         }
-        head.next = null
-
-        return pre
+        var cur = head
+        var pre: ListNode? = null
+        while (cur != null) {
+            val temp = cur.next
+            cur.next = pre
+            pre = cur
+            cur = temp
+        }
+        return pre;
     }
 
     class ListNode(var `val`: Int) {
