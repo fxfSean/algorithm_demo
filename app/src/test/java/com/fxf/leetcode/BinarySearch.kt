@@ -18,6 +18,22 @@ class BinarySearch {
         return -1
     }
 
+    fun binarySearch(arr: IntArray, target: Int) : Int {
+        var left = 0
+        var right = arr.size
+        while (left <= right) {
+            var mid = left + (right - left) / 2
+            if (arr[mid] < target) {
+                left = mid + 1
+            } else if (arr[mid] > arr[right]) {
+                right = mid - 1
+            } else {
+                return mid
+            }
+        }
+        return -1;
+    }
+
     fun searchLeftBound(arr: IntArray,target: Int): Int {
         var left = 0
         var right = arr.size - 1
