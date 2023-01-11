@@ -1,5 +1,7 @@
 package com.fxf.leetcode
 
+import org.junit.Test
+
 /**
  * 在一个二维数组中，每一行都按照从左到右递增的顺序排序，
  * 每一列都按照从上到 下递增的顺序排序。
@@ -25,5 +27,26 @@ class ArraySets {
             }
         }
         return false
+    }
+}
+
+
+class TwoSum {
+    @Test
+    fun test() {
+        val arr = intArrayOf(1,4,5)
+        twoSum(arr, 6)
+
+    }
+
+    fun twoSum(nums: IntArray, target: Int): IntArray? {
+        val map: HashMap<Int, Int> = HashMap()
+        for (index in nums.indices) {
+            if (map[target - nums[index]] != null) {
+                return intArrayOf(index, map[target - nums[index]]!!)
+            }
+            map[nums[index]] = index
+        }
+        return null
     }
 }
